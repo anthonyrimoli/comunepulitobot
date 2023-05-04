@@ -3,7 +3,7 @@
 
 //Telegram
 
-define('TELEGRAM_BOT',''); //inserire il token del Bot rilasciato da @botfather
+define('TELEGRAM_BOT','6044336322:AAFasRKK5GSGOQuqrdL8jYjKLhxlDLuZjnA'); //inserire il token del Bot rilasciato da @botfather
 define('BOT_WEBHOOK', 'https://dominioinhttpsconpercorsodelbot/start.php');
 define('LOG_FILE', 'db/telegram.log');
 define('GDRIVEKEY', ''); // key dello sheet di google drive che deve essere prima condiviso e pubblicato sul web come csv
